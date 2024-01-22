@@ -1,5 +1,5 @@
 const userEmail = []
-
+console.log("hello");
 if (userEmail) {
     console.log("Got user email");
 } else {
