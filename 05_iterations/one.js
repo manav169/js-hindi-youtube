@@ -17,7 +17,7 @@ for (let i = 1; i <= 10; i++) {
     //console.log(`Inner loop value ${j} and inner loop ${i}`);
     //console.log(i + '*' + j + ' = ' + i*j );
    }
-    
+    // point 2 reached
 }
 let myArray = ["flash", "batman", "superman"]
 //console.log(myArray.length);
