@@ -1,5 +1,6 @@
 
 let index = 0
+// console.log("Hello World ag");
 // while (index <= 10) {
 //     console.log(`Value of index is ${index}`);
 //     index = index + 2
