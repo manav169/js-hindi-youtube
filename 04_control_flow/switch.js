@@ -6,9 +6,6 @@
 //     default:
 //         break;
 // }
-// 
-// 
-// 
 
 const month = "march"
 
