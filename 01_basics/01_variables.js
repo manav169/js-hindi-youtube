@@ -3,7 +3,7 @@ let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
 accountCity = "Jaipur"
 let accountState;
-// yahooo
+
 // accountId = 2 // not allowed
 
 
